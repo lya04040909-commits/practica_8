@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(0, 162, 255);
+}
+mark{
+    color: darkorchid;
+}
+h1{
+    color: darkcyan;
+}
+h2{
+    color: deepskyblue;
+}
+article{
+    color: mediumturquoise;
+}
